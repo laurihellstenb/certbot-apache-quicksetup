@@ -2,7 +2,7 @@
 
 A shell script to easily setup [Certbot](https://letsencrypt.org/) for Apache.
 
-## Prerequirements
+## Prerequisites
 
 Linux with Apache web server already installed and configured. 
 

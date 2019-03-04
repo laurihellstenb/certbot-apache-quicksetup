@@ -4,7 +4,7 @@ A shell script to easily setup [Certbot](https://certbot.eff.org/) for Apache.
 
 ## Prerequisites
 
-Linux with Apache web server already installed and configured. 
+Ubuntu 18.04 LTS with Apache web server already installed and configured. 
 
 ## How to use
 

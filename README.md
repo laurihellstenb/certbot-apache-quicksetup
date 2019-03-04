@@ -1,6 +1,6 @@
 ## Certbot-Apache-Quicksetup
 
-A shell script to easily setup [Certbot](https://letsencrypt.org/) for Apache.
+A shell script to easily setup [Certbot](https://certbot.eff.org/) for Apache.
 
 ## Prerequisites
 
